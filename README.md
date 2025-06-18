@@ -1,10 +1,10 @@
-# 🔴 Manchester United Performance Analysis (2013–2023)
+# Manchester United Performance Analysis (2013–2023)
 
 This project presents an end-to-end data analysis of Manchester United's performance in the Premier League from the 2013/2014 to 2023/2024 season. The primary goal is to explore the decline in team performance post the Alex Ferguson era through quantitative indicators such as match results, shooting accuracy, discipline metrics, and home/away efficiency.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ### 1. `SQL_Transformations.sql`
 Contains SQL logic to:
@@ -25,17 +25,17 @@ Preview of the final visual dashboard built using **Google Looker Studio**, show
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
-- ✅ **Total Results Summary**  
+- **Total Results Summary**  
   - Win: 216  
   - Draw: 101  
   - Lose: 101
 
-- ✅ **Season Filter**  
+- **Season Filter**  
   Dropdown filter to explore each season individually.
 
-- ✅ **Key Visual Components:**
+- **Key Visual Components:**
   - **MANUTD RESULT (Bar Chart):** Win/Draw/Lose breakdown per year
   - **HOME AWAY RESULT:** Match results based on location
   - **SHOOTING PERFORMANCE:** Shots vs Shots on Target per match
@@ -44,7 +44,7 @@ Preview of the final visual dashboard built using **Google Looker Studio**, show
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 - **SQL (CTEs, CASE statements)** for transformation
 - **Excel** for cleaning, pivoting, and pre-aggregation
@@ -54,7 +54,7 @@ Preview of the final visual dashboard built using **Google Looker Studio**, show
 
 ---
 
-## ❓ Why This Project?
+## Why This Project?
 
 We aim to understand the **underlying causes of Manchester United's inconsistent performance** post-2013 by translating match data into binary indicators:
 - Was the team more dominant at home?
@@ -65,7 +65,7 @@ By transforming categorical and numerical match features into binary flags (1 = 
 
 ---
 
-## 📌 Dataset Source
+## Dataset Source
 Raw data originally spans **2000/2001 to 2024/2025**, but this project focuses only on **2013–2024 (partial)**, omitting:
 - **2000–2013**: Era of dominance, not relevant for decline analysis
 - **2024/2025**: Incomplete season (only half data available)
@@ -73,7 +73,7 @@ Raw data originally spans **2000/2001 to 2024/2025**, but this project focuses o
 
 ---
 
-## ✍️ Author
+## Author
 
 **Gerry Aria Rotama**  
 Data Analyst | Football & Data Enthusiast  
