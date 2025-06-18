@@ -2,6 +2,8 @@
 
 This project presents an end-to-end data analysis of Manchester United's performance in the Premier League from the 2013/2014 to 2023/2024 season. The primary goal is to explore the decline in team performance post the Alex Ferguson era through quantitative indicators such as match results, shooting accuracy, discipline metrics, and home/away efficiency.
 
+Dashboard link [https://lookerstudio.google.com/reporting/78a92ec7-5512-41d7-877e-8326820e0575]
+
 ---
 
 ## Project Structure
